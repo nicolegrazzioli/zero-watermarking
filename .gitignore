@@ -1,1 +1,18 @@
-.code-workspace
+*.code-workspace
+
+# Dataset e arquivos pesados
+Images/
+
+# Resultados de vazamentos e arquivos gerados em tempo de execução
+imagens-vazadas/
+dente_vazado.jpg
+
+# Segurança e LGPD (MANDATÓRIO!)
+# O dicionário contém PII (dados reais dos pacientes mapeados aos Hashes). 
+# Em produção, ele NUNCA deve ser enviado ao repositório público do Git.
+dicionario.json
+
+# (Opcional) Bancos de dados de chaves locais.
+# Descomente abaixo se não quiser enviar as chaves criptográficas locais geradas
+# banco_de_chaves.json
+# chaves_seguras.txt
