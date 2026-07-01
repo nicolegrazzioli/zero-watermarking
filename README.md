@@ -62,3 +62,4 @@ Espera-se provar a superioridade e adequação do Zero-Watermarking aliado à t�
 - Manuais de documentação nativos das bibliotecas OpenCV e NumPy
 - Plataforma Kaggle
 
+- [Link Colab](https://colab.research.google.com/drive/17o-SAdXe68M11nRKZLRD875yDqiUeVjG?authuser=1#scrollTo=KfEPvmVFq8J6)
